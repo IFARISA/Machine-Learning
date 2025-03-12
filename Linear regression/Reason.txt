@@ -1,0 +1,1 @@
+Linear Regression deals with continuous outputs.
